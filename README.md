@@ -1,4 +1,4 @@
-# 🔥 **Om Raghuwanshi** 🔥
+#  **Om Raghuwanshi** 
 
 Welcome to my GitHub! 👾
 
