@@ -2,30 +2,40 @@
 
 Welcome to my GitHub! 👾
 
-I am a passionate **B.Tech in Cybersecurity** student, aspiring to become a **Physicist** in the future. I specialize in **3D animation** and **OSINT (Open-Source Intelligence)** tools. I enjoy learning new technologies, experimenting with **C programming**, and studying **Physics**. ⚡
+I am a passionate **B.Tech in Cybersecurity** student with a keen interest in **Physics**. I specialize in **3D animation** and building tools for **OSINT (Open-Source Intelligence)**. Constantly learning, experimenting, and pushing the boundaries of technology and creativity. ⚡
 
-### 🛠️ **What I'm working on:**
-- Building an **OSINT tool** for automating Google dorks and web searches. 💻🚀
-- Preparing for **GATE** exams in **Physics**. 📚
-- Exploring the world of **Color Theory** and **Animation**. 🎨
-- Diving deeper into **C programming**. 🖥️
+---
+
+### 🛠️ **What I'm Working On:**
+- Developing an **OSINT tool** to automate Google dorks and enhance information gathering. 💻🚀
+- Exploring **C programming** and sharpening my problem-solving skills. 🖥️
+- Studying **Physics** and delving into advanced concepts. 📚
+- Experimenting with **Color Theory,relativity,ai,and gamedevlopment** . 🎨
+
+---
 
 ### 🧠 **Skills & Technologies:**
-- **Cybersecurity** | **OSINT** | **3D Animation** | **Physics** | **C Programming** | **Color Theory**
+- **Cybersecurity** | **OSINT** | **3D Animation** | **Physics**  
+- **Programming Languages**: C, Python, and more.
 
-### 🌐 **Connect with me:**
-- [LinkedIn](https://www.linkedin.com/in/om-raghuwanshi) 💼
-- [Twitter](https://twitter.com/omraghuwanshi) 🐦
-- [Personal Website](https://www.omraghuwanshi.com) 🌍
+---
 
-### 🖤 **Fun Facts:**
-- I sleep at **12 AM** and love managing my schedule to balance **study**, **work**, and **rest**. 🕛
-- I have a crush on **Khushi**, a girl in my class who I respect deeply! ❤️
-- I am passionate about **color theory** and its application in animation. 🎨
+### 🌐 **Let's Connect:**
+- [LinkedIn](https://www.linkedin.com) 💼
+- [GitHub](https://github.com) 🌟
 
-> **"In a world full of code, be the algorithm that changes everything."** - Om Raghuwanshi
+---
 
-Feel free to explore my repositories, and let's connect if you share similar interests! 🌟
+### ⚡ **Fun Facts:**
+- I enjoy balancing my time between **study**, **development**, and **creative work**. 🕛  
+- Passionate about blending **art and science** in everything I create. 🎨
+
+---
+
+> **"In a world full of possibilities, code your own path."**
+
+Feel free to explore my repositories and connect if you share similar interests! 🌟
+
 
 
 <!---
